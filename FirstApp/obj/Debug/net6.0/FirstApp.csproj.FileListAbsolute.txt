@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\bin\Debug\net6.0\FirstApp.exe
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\bin\Debug\net6.0\FirstApp.dll
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.dll
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+C:\Users\phamd\Documents\GitHub\CSharpTutorial\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
